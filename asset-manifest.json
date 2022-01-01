@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/snap-clone/static/css/main.441b827e.css",
+    "main.js": "/snap-clone/static/js/main.54615969.js",
+    "static/js/787.27787c38.chunk.js": "/snap-clone/static/js/787.27787c38.chunk.js",
+    "static/media/kawma2.jpg": "/snap-clone/static/media/kawma2.9446f4d657950b4f146b.jpg",
+    "static/media/NamavaNew_resize.jpg": "/snap-clone/static/media/NamavaNew_resize.70b0c538859bba6ecf61.jpg",
+    "static/media/Pwa-300X224-Farsi-TAlkBox.jpg": "/snap-clone/static/media/Pwa-300X224-Farsi-TAlkBox.2f3f7f5a62f4da3d4a99.jpg",
+    "static/media/Inapp-300X224-Dr-Fa-.jpg": "/snap-clone/static/media/Inapp-300X224-Dr-Fa-.c4c29282884855b745d9.jpg",
+    "static/media/Inapp-300X224-Fa-S7A.jpg": "/snap-clone/static/media/Inapp-300X224-Fa-S7A.305c5b83f9d371a497b5.jpg",
+    "static/media/Inapp-300X224-Fa2.jpg": "/snap-clone/static/media/Inapp-300X224-Fa2.e50779ff7e85b6e8785d.jpg",
+    "static/media/Food PWA (1).jpg": "/snap-clone/static/media/Food PWA (1).d9afb59262695592f872.jpg",
+    "static/media/Pwa-300X224-Fa.jpg": "/snap-clone/static/media/Pwa-300X224-Fa.9e47e19131fe1ce44616.jpg",
+    "static/media/Inapp-300X224-Fa.jpg": "/snap-clone/static/media/Inapp-300X224-Fa.f8752597772297a41e5f.jpg",
+    "static/media/Club-Lottery-PS5-Dey.jpg": "/snap-clone/static/media/Club-Lottery-PS5-Dey.aad28e064d7f20d126fb.jpg",
+    "static/media/Club-Lottery-iPhone-Dey.jpg": "/snap-clone/static/media/Club-Lottery-iPhone-Dey.6d0fa43abfe68a19be28.jpg",
+    "static/media/IRANYekanRegular.ttf": "/snap-clone/static/media/IRANYekanRegular.f7295bcfc6f9f2b27136.ttf",
+    "static/media/IRANYekanMedium.ttf": "/snap-clone/static/media/IRANYekanMedium.48838b15fe97aed66635.ttf",
+    "static/media/IRANYekanBlack.ttf": "/snap-clone/static/media/IRANYekanBlack.2a305840abb4eceed90c.ttf",
+    "static/media/box.png": "/snap-clone/static/media/box.110cedd514051e0701cb.png",
+    "static/media/logo_snap.svg": "/snap-clone/static/media/logo_snap.07a3bbbe1f8da112a04203b38c4fdb3f.svg",
+    "static/media/slick.svg": "/snap-clone/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/snap-clone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/snap-clone/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/club.svg": "/snap-clone/static/media/club.96a9e7810929bd4b38f331606b8ca129.svg",
+    "static/media/slick.woff": "/snap-clone/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/green-voucher.svg": "/snap-clone/static/media/green-voucher.bf1cf1b1cf03ef472f850db790796085.svg",
+    "static/media/green-home.svg": "/snap-clone/static/media/green-home.ca45a02f48968f46695c7b758ab153cc.svg",
+    "index.html": "/snap-clone/index.html",
+    "main.441b827e.css.map": "/snap-clone/static/css/main.441b827e.css.map",
+    "main.54615969.js.map": "/snap-clone/static/js/main.54615969.js.map",
+    "787.27787c38.chunk.js.map": "/snap-clone/static/js/787.27787c38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.441b827e.css",
+    "static/js/main.54615969.js"
+  ]
+}
